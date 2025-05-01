@@ -47,7 +47,7 @@ LAWGIC follows Responsible AI principles including:
 ### 🧠 AI-Powered Legal Insights
 - Translated input is vectorized and compared with **Azure AI Search indexes**.
 - Legal documents are stored in **Azure Blob Storage**, indexed semantically.
-  📎 [Google Drive Folder – Legal Documents to Upload]([https://your-google-drive-link](https://drive.google.com/drive/folders/1Nh4a6g5XYf_LyhLgbZQ-bLTeaDpCyB-m))
+- Google Drive Folder – Legal Documents to Upload - https://drive.google.com/drive/folders/1Nh4a6g5XYf_LyhLgbZQ-bLTeaDpCyB-m
 - Retrieved content is passed to **Azure OpenAI LLM** for legal reasoning and answer generation.
 - Ensures accuracy and context relevance by grounding answers in legal documents.
 
@@ -81,6 +81,7 @@ LAWGIC leverages **Semantic Kernel** to orchestrate specialized plugins that wor
 ![image](https://github.com/user-attachments/assets/a459b063-d9a5-40db-a526-cb99c89a5545)
 
 *Figure: End-to-end LAWGIC Architecture*
+
 Text-to-Speech (TTS) and Speech-to-Text (STT) functionalities are planned as upcoming features.
 
 
