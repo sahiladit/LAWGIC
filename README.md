@@ -231,7 +231,7 @@ chainlit run main.py --port 8000
 ---
 
 ## 📽️ Demonstration
-- Link: 
+- Youtube Link: https://youtu.be/OgEoEoIMP5s?si=c3NPoDg_4rPB8N5r
 
 
 ---
