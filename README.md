@@ -246,5 +246,4 @@ Have questions or want to collaborate?
 - Richa Rathi: https://www.linkedin.com/in/richa-rathi-775871257/
 - Sahil Adit: https://www.linkedin.com/in/sahiladit/
 
-**Note**: LAWGIC is a legal assistive tool. For serious or critical legal matters, always consult a licensed attorney.
 
