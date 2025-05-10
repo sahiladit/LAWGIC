@@ -168,7 +168,6 @@ typing-inspect==0.9.0
 typing-inspection==0.4.0
 typing_extensions==4.13.2
 uptrace==1.31.0
-urllib3==2.4.0
 uvicorn==0.34.2
 watchfiles==0.20.0
 websockets==15.0.1
