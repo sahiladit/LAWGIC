@@ -144,7 +144,6 @@ python-socketio==5.13.0
 PyYAML==6.0.2
 referencing==0.36.2
 regex==2024.11.6
-requests==2.32.3
 rfc3339-validator==0.1.4
 rpds-py==0.24.0
 ruamel.yaml==0.18.10
