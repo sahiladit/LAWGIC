@@ -177,3 +177,4 @@ wsproto
 yarl
 zipp
 gunicorn
+python-docx
