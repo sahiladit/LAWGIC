@@ -750,3 +750,8 @@ async def handle_message(message: cl.Message):
         cl.user_session.set("chat_history", chat_history)
         await processing_msg.remove()
         await cl.Message(content=error_msg).send()
+
+if __name__ == '__main__':
+    import os
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port)
